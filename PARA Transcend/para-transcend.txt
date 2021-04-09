@@ -1,0 +1,28 @@
+Description : We are creating Online Education system i.e. technology which supports teaching and learning using a computer web technology.
+The internet and the world wide web has provided us with easy access to information and knowledge. It bridges the gap between a teacher and a student in different ways.
+Providing a platform which includes everything i.e study material, previous year paper, lectures.
+
+Project Directory:  
+── app.js
+├── bin
+│   └── www
+├── package.json
+├── public
+│   ├── images
+│   ├── javascripts
+│   └── stylesheets
+│       └── style.css
+├── routes
+│   ├── index.js
+│   └── users.js
+└── views
+    ├── error.pug
+    ├── index.pug
+    └── layout.pug
+
+Ways to host your project on the localhost:
+- First move on to Project Root
+- use following command in Terminal:
+    nodemon start 
+
+
