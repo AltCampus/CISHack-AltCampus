@@ -1,6 +1,10 @@
 ![](https://storage.googleapis.com/incind/CISDarkeLJBiNH.png)
 
-## Code Innovation Hackathon - Alt Campus
+## Code Innovation Hackathon - Alt Campus -TECHNOVATORS
+PALACHARLANARENDRA
+SHISHUPAL KUMAR
+PRIYAPANDEY
+JOEL RAJESH
 This is the official Idea/project submission repository for CODE INNOVATION SERIES HACKATHON - Alt Campus.
 
 ## Submission Procedure
